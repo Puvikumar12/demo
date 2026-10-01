@@ -1,5 +1,5 @@
 GITHUB
-insert -> add -> commit -> push
+any modification -> add -> commit -> push
 terminal command:
 git status
 git add fileName
