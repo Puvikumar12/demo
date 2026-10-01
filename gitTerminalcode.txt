@@ -1,0 +1,7 @@
+GITHUB
+insert -> add -> commit -> push
+terminal command:
+git status
+git add fileName
+git commit -m "fileName created"
+git push origin main
